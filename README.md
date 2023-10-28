@@ -1,1 +1,1 @@
-# shadowrocket_model
+##### 自用规则
